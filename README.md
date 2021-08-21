@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Th3Z3r0
 - 👀 I’m interested in programming and coding
-- 🌱 I’m currently learning DevSecOps
+- 🌱 I’m currently learning Python
 
 <!---
 Th3Z3r0/Th3Z3r0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
